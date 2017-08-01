@@ -1,0 +1,78 @@
+/**/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color:#000000;
+    font-weight: 400;
+}
+h1,h2,h3,h4,h5,h6{font-weight: 500;}
+
+.logo{
+
+display: block; 
+margin-top: 20px;
+font-family: 'Merriweather', serif;
+font-size: 25px;
+font-weight: 700;
+
+}
+.logo a{
+text-decoration: none;
+color:#fff;
+
+}
+.nav-btn{
+
+margin-left: -100px;
+padding-top: 20px;
+
+}
+.nav-btn a{
+	 border-radius: 20px;
+	 padding: 10px 20px;
+	background-color: #1F77D0;
+	color:#fff;
+	border-color: #f8f8f899;
+}
+.nav-btn a:hover {
+background-color:#1F77D0;
+color:#fff;
+border-color: #fff
+}
+
+.header{
+margin-bottom: 70px;
+}
+
+.login-form{
+width:50%;
+height:48%;
+margin-top: 200px;
+
+}
+.login-form h3{
+	text-align: center;
+	margin:0 auto;
+padding-top:70px; 
+
+}
+.login-form .form-module input{
+
+width: 100%;
+height: 48px;
+font-size: 18px;
+border: 1px solid #e0e6ea;
+background: #f9fafb;
+padding: 8px;
+margin-top: 30px;
+
+}
+.login-form .form-module .form-btn{
+padding: 15px 30px;
+margin-top: 70px;
+border-radius: 30px;
+background-color: #46bb3c;
+margin-left:-25px;
+border: 1px solid #36bf29;
+color:#fff;
+}
